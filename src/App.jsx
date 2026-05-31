@@ -41,21 +41,13 @@ const products = [
    {
     id: 3,
     name: 'Advanced Amino Formula (by Advanced Bionutritionals®)',
-    benefit: 'Key Health Benefits
-Build Lean Muscle & Strength: Formulated with 8 essential amino acids crucial for protein synthesis and building stronger muscles.
+    benefit: 'Build Lean Muscle & Strength: Formulated with 8 essential amino acids crucial for protein synthesis and building stronger muscles.
 
 Sustained Energy & Stamina: Experience a natural boost in daily performance and endurance without the crash.
 
 Joint & Muscle Recovery: Helps repair damaged joints, protects lean muscle mass, and relieves post-exercise soreness.
 
 Enhanced Mood & Cognitive Support: Promotes better memory, focus, and overall mood balance.
-
-Radiant Beauty: Supports the structural building blocks needed for younger-looking skin, shinier hair, and stronger nails.
-
-Easy on the Gut: Formulated to help improve digestion and accommodate common food sensitivities.
-
-Product Specifications:
-Form: 150 Easy-to-Swallow Tablets per bottle.
 
 Dietary Features: Vegan, Gluten-Free, Non-GMO, Soy-Free, and Dairy-Free.
 ',
@@ -70,9 +62,6 @@ Dietary Features: Vegan, Gluten-Free, Non-GMO, Soy-Free, and Dairy-Free.
     benefit: '
 
 Introducing our cutting-edge Advanced Amino Formula, designed to support muscle recovery, boost energy levels, enhance endurance, and facilitate lean muscle growth, making it a must-have for health enthusiasts. 
-
-Key Health Benefits
-
 - Build new and stronger muscles.
 
 - Have more energy and stamina: with a 99% protein utilization, Advanced Amino Formula fuels your body with necessary building blocks for sustained energy and enhanced performance.
@@ -87,17 +76,15 @@ Key Health Benefits
 
 - Comprehensive Amino Acid profile: Advanced Amino Formula contains 8 essential amino acids, crucial for protein synthesis, muscular strength, and overall physical optimization.  
 
-Product Description
 Premium Science-Based Amino Acid Supplement
 Unlock your body's full physical optimization with Advanced Amino Formula. This cutting-edge dietary supplement features a comprehensive blend of 8 essential amino acids designed for an incredible 99% protein utilization rate. Unlike standard protein powders that create heavy waste byproducts, this premium formula fuels your body with the exact building blocks it needs for rapid absorption and maximum performance.
 
 Whether you are looking to accelerate post-workout recovery, build lean muscle, or maintain your vitality as you age, this highly bioavailable formula offers complete physical support from the inside out.
 
-Deep Wrinkle Reduction: Formulated with Retinol and Hyaluronic Acid to plump the skin, locking in intense moisture while visibly smoothing out fine lines and deep-set wrinkles.
+Formulated with Retinol and Hyaluronic Acid to plump the skin, locking in intense moisture while visibly smoothing out fine lines and deep-set wrinkles.
+ 
+  Infused with premium Caviar extract to restore skin density, revive dullness, and provide essential nutrients for a radiant, healthy glow.
 
-Luxury Nourishment: Infused with premium Caviar extract to restore skin density, revive dullness, and provide essential nutrients for a radiant, healthy glow.
-
-How to Use
 Apply a small amount to a clean face and neck daily. Massage gently in upward motions until fully absorbed to experience ultimate hydration and firming benefits.',
     price: '$60',
     img: 'https://e-caviargan.com/images/s6-right-prod.png',
