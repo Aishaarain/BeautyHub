@@ -37,8 +37,146 @@ const products = [
     img: 'https://i.pinimg.com/736x/21/48/a7/2148a7f79fc90d792a97ed17c87bc891.jpg',
     link: 'https://celluhair.org/v2/index.html?transaction_id=U3UwbWhmSG0#aff=aishaarainaaa3108',
     color: 'from-pink-50 to-rose-100',
-  }
+  },
+   {
+    id: 3,
+    name: 'Advanced Amino Formula (by Advanced Bionutritionals®)',
+    benefit: 'Key Health Benefits:
+Build Lean Muscle & Strength: Formulated with 8 essential amino acids crucial for protein synthesis and building stronger muscles.
+
+Sustained Energy & Stamina: Experience a natural boost in daily performance and endurance without the crash.
+
+Joint & Muscle Recovery: Helps repair damaged joints, protects lean muscle mass, and relieves post-exercise soreness.
+
+Enhanced Mood & Cognitive Support: Promotes better memory, focus, and overall mood balance.
+
+Radiant Beauty: Supports the structural building blocks needed for younger-looking skin, shinier hair, and stronger nails.
+
+Easy on the Gut: Formulated to help improve digestion and accommodate common food sensitivities.
+
+Product Specifications:
+Form: 150 Easy-to-Swallow Tablets per bottle.
+
+Dietary Features: Vegan, Gluten-Free, Non-GMO, Soy-Free, and Dairy-Free.
+',
+    price: '$39.95',
+    img: 'https://i.pinimg.com/736x/71/8a/c9/718ac9dca8775a73d64c85a77a54136c.jpg',
+    link: 'https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm#aff=aishaarainaaa3108',
+    color: 'from-pink-50 to-rose-100',
+  },
+   {
+    id: 4,
+    name: 'CaviArgan',
+    benefit: '
+Conversation with Gemini
+create a ad image for my pinterest account Unlock Your Affiliate Commission Potential with Advanced Amino Formula! 
+
+Introducing our cutting-edge Advanced Amino Formula, designed to support muscle recovery, boost energy levels, enhance endurance, and facilitate lean muscle growth, making it a must-have for health enthusiasts. 
+
+Key Health Benefits:
+
+- Build new and stronger muscles.
+
+- Have more energy and stamina: with a 99% protein utilization, Advanced Amino Formula fuels your body with necessary building blocks for sustained energy and enhanced performance.
+
+- Boost memory and mood.
+
+- Have younger-looking skin, shinier hair, and stronger nails.
+
+- Can help repair damaged joints and relieve pain.
+
+- Helps improve digestion and food sensitivities.
+
+- Comprehensive Amino Acid profile: Advanced Amino Formula contains 8 essential amino acids, crucial for protein synthesis, muscular strength, and overall physical optimization.  
+
+Tap into the growing demand for high-quality, science-based supplements and earn generous commissions. 
+
+Ready to elevate your earning potential? 
+
+Visit our affiliate support page to get your affiliate link, graphics, social posts, and email swipes! less captions on image now create
+
+, AI generated
+
+remove all captions on image these are commission captions this is not good to shoe
+
+, AI generated
+
+, AI generated
+
+name and description for this product
+
+Based on the provided product images, here are the official name and detailed product description for your Pinterest ad or product listing:
+
+Product Name
+Advanced Amino Formula (by Advanced Bionutritionals®)
+
+Product Description
+Premium Science-Based Amino Acid Supplement
+Unlock your body's full physical optimization with Advanced Amino Formula. This cutting-edge dietary supplement features a comprehensive blend of 8 essential amino acids designed for an incredible 99% protein utilization rate. Unlike standard protein powders that create heavy waste byproducts, this premium formula fuels your body with the exact building blocks it needs for rapid absorption and maximum performance.
+
+Whether you are looking to accelerate post-workout recovery, build lean muscle, or maintain your vitality as you age, this highly bioavailable formula offers complete physical support from the inside out.
+
+Key Health Benefits:
+Build Lean Muscle & Strength: Formulated with 8 essential amino acids crucial for protein synthesis and building stronger muscles.
+
+Sustained Energy & Stamina: Experience a natural boost in daily performance and endurance without the crash.
+
+Joint & Muscle Recovery: Helps repair damaged joints, protects lean muscle mass, and relieves post-exercise soreness.
+
+Enhanced Mood & Cognitive Support: Promotes better memory, focus, and overall mood balance.
+
+Radiant Beauty: Supports the structural building blocks needed for younger-looking skin, shinier hair, and stronger nails.
+
+Easy on the Gut: Formulated to help improve digestion and accommodate common food sensitivities.
+
+Product Specifications:
+Form: 150 Easy-to-Swallow Tablets per bottle.
+
+Dietary Features: Vegan, Gluten-Free, Non-GMO, Soy-Free, and Dairy-Free.
+
+Brand: Advanced Bionutritionals®.
+
+can you generate a video for this product
+
+I can create that video for you today if you upgrade your subscription.
+
+create its ad image BOOSTS COLLAGEN PRODUCTION:Thanks to the synergy between MATRIXYLsynthe’6, Vitamin C, E, and Green tea, this firming face cream stimulates the skin's natural functions, leaving a tauter, youthful looking skin.
+
+TURN BACK THE CLOCK: With our deeply replenishing anti-aging moisturizer. Our exclusive formula with Hyaluronic Acid, MATRIXYL Synthe'6, Caviar, and Retinol restores density and elasticity, visibly reducing the appearance of fine lines, deep wrinkles, and dullness.
+
+, AI generated
+
+give me description and title
+
+Here are the high-converting ad titles and descriptions for your product, inspired by the premium look of the CaviArgan cream in image_956585.png and its key ingredients:
+
+Ad Titles (Choose One)
+Turn Back the Clock with CaviArgan
+
+The Ultimate Anti-Aging Secret: CaviArgan
+
+Restore Your Skin's Density & Elasticity
+
+Product Description
+Turn Back the Clock with CaviArgan Deeply Replenishing Anti-Aging Moisturizer
+Restore your skin’s youthfulness, density, and natural elasticity with CaviArgan, a deeply replenishing anti-aging cream. This exclusive formula is meticulously crafted to target deep wrinkles, fine lines, and dullness, giving your complexion a visibly tauter, lifted appearance.
+
+Key Benefits & Ingredients:
+Boosts Collagen Production: A powerful, dynamic synergy of MATRIXYL Synthe’6, Vitamin C, Vitamin E, and Green Tea works to stimulate your skin’s natural functions, revealing a firmer and more youthful complexion.
+
+Deep Wrinkle Reduction: Formulated with Retinol and Hyaluronic Acid to plump the skin, locking in intense moisture while visibly smoothing out fine lines and deep-set wrinkles.
+
+Luxury Nourishment: Infused with premium Caviar extract to restore skin density, revive dullness, and provide essential nutrients for a radiant, healthy glow.
+
+How to Use:
+Apply a small amount to a clean face and neck daily. Massage gently in upward motions until fully absorbed to experience ultimate hydration and firming benefits.',
+    price: '$60',
+    img: 'https://e-caviargan.com/images/s6-right-prod.png',
+    link: 'https://e-caviargan.com/#aff=aishaarainaaa3108',
+    color: 'from-pink-50 to-rose-100',
+  },
 ]
+
 
 const features = [
   {
