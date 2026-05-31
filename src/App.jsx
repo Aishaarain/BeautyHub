@@ -41,7 +41,7 @@ const products = [
    {
     id: 3,
     name: 'Advanced Amino Formula (by Advanced Bionutritionals®)',
-    benefit: 'Key Health Benefits:
+    benefit: 'Key Health Benefits
 Build Lean Muscle & Strength: Formulated with 8 essential amino acids crucial for protein synthesis and building stronger muscles.
 
 Sustained Energy & Stamina: Experience a natural boost in daily performance and endurance without the crash.
