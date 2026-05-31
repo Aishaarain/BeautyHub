@@ -41,7 +41,7 @@ const products = [
    {
     id: 3,
     name: 'Advanced Amino Formula (by Advanced Bionutritionals®)',
-    benefit: 'Build Lean Muscle & Strength: Formulated with 8 essential amino acids crucial for protein synthesis and building stronger muscles.
+    benefit: `Build Lean Muscle & Strength: Formulated with 8 essential amino acids crucial for protein synthesis and building stronger muscles.
 
 Sustained Energy & Stamina: Experience a natural boost in daily performance and endurance without the crash.
 
@@ -50,7 +50,7 @@ Joint & Muscle Recovery: Helps repair damaged joints, protects lean muscle mass,
 Enhanced Mood & Cognitive Support: Promotes better memory, focus, and overall mood balance.
 
 Dietary Features: Vegan, Gluten-Free, Non-GMO, Soy-Free, and Dairy-Free.
-',
+`,
     price: '$39.95',
     img: 'https://i.pinimg.com/736x/71/8a/c9/718ac9dca8775a73d64c85a77a54136c.jpg',
     link: 'https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm#aff=aishaarainaaa3108',
@@ -59,7 +59,7 @@ Dietary Features: Vegan, Gluten-Free, Non-GMO, Soy-Free, and Dairy-Free.
    {
     id: 4,
     name: 'CaviArgan',
-    benefit: '
+    benefit: `
 
 Introducing our cutting-edge Advanced Amino Formula, designed to support muscle recovery, boost energy levels, enhance endurance, and facilitate lean muscle growth, making it a must-have for health enthusiasts. 
 - Build new and stronger muscles.
@@ -85,7 +85,7 @@ Formulated with Retinol and Hyaluronic Acid to plump the skin, locking in intens
  
   Infused with premium Caviar extract to restore skin density, revive dullness, and provide essential nutrients for a radiant, healthy glow.
 
-Apply a small amount to a clean face and neck daily. Massage gently in upward motions until fully absorbed to experience ultimate hydration and firming benefits.',
+Apply a small amount to a clean face and neck daily. Massage gently in upward motions until fully absorbed to experience ultimate hydration and firming benefits.`,
     price: '$60',
     img: 'https://e-caviargan.com/images/s6-right-prod.png',
     link: 'https://e-caviargan.com/#aff=aishaarainaaa3108',
