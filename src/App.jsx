@@ -84,12 +84,12 @@ Root-Cause Fatigue Defense: Rather than providing a quick band-aid, this supplem
     name: 'Idrotherapy',
     benefit: `Helps improve the appearance of skin firmnessReduces the appearance of wrinklesMinimizes the look of enlarged poresEnhances skin hydration`,
     price: '$50',
-    img: 'https://e-idrotherapylove.com/images/banner-girl-img.png',
+    img: 'https://e-idrotherapylove.com/images/product-img.png',
     link: 'https://e-idrotherapylove.com/#aff=aishaarainaaa3108',
     color: 'from-pink-50 to-rose-100',
   },
    {
-    id: 6,
+    id: 7,
     name: 'Thyrafemme balance',
     benefit: `Support Healthy Metabolism: Helps optimize your body’s natural energy production pathways, allowing you to convert food into usable fuel more efficiently while fighting sluggishness.
 
