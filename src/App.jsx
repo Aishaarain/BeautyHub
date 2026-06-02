@@ -64,6 +64,47 @@ const products = [
     link: 'https://e-caviargan.com/#aff=aishaarainaaa3108',
     color: 'from-pink-50 to-rose-100',
   },
+   {
+    id: 5,
+    name: 'Advanced mitocondrial formula',
+    benefit: `True Cellular Energy Production: Skip the temporary jitters of coffee and energy drinks. This formula optimizes your body’s natural energy creation, offering a sustained, all-day lift without the crash.
+
+Enhanced Physical Mobility: Fueling your muscle and tissue cells means better flexibility, less stiffness, and the physical stamina needed to stay active and independent.
+
+Reclaim Your Youthful Vitality: When your cells function like they did decades ago, you feel it. Enjoy a sharper mind, a refreshed body, and a renewed sense of "young again" enthusiasm.
+
+Root-Cause Fatigue Defense: Rather than providing a quick band-aid, this supplement works deep within your biology to upgrade poorly functioning cells, helping to reverse the compounding effects of age-related sluggishness.`,
+    price: '$79.95',
+    img: 'https://assets.advancedbionutritionals.com/Images/Landing-Pages-2020/Mitochondrial-2023/High-Design/header-bottle.png',
+    link: 'https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm#aff=aishaarainaaa3108',
+    color: 'from-pink-50 to-rose-100',
+  },
+  {
+    id: 6,
+    name: 'Idrotherapy',
+    benefit: `Helps improve the appearance of skin firmnessReduces the appearance of wrinklesMinimizes the look of enlarged poresEnhances skin hydration`,
+    price: '$50',
+    img: 'https://e-idrotherapylove.com/images/banner-girl-img.png',
+    link: 'https://e-idrotherapylove.com/#aff=aishaarainaaa3108',
+    color: 'from-pink-50 to-rose-100',
+  },
+   {
+    id: 6,
+    name: 'Thyrafemme balance',
+    benefit: `Support Healthy Metabolism: Helps optimize your body’s natural energy production pathways, allowing you to convert food into usable fuel more efficiently while fighting sluggishness.
+
+Promote Mental Clarity: Aids in breaking through the heavy "brain fog" that often accompanies thyroid imbalances, helping you regain sharp daily focus and mental sharpness.
+
+Manage Stress Naturally: Expertly formulated with adaptogens like Ashwagandha to help soothe the nervous system, balance your mood, and steady your response to everyday stressors.
+
+Comprehensive Internal Support: Delivers essential minerals and targeted botanicals directly to your thyroid to support regular endocrine function from the inside out.`,
+    price: '$79',
+    img: 'https://getthyrafemme.cc/includes/img/product-1.png',
+    link: 'https://getthyrafemme.cc/dtc/#aff=aishaarainaaa3108',
+    color: 'from-pink-50 to-rose-100',
+  },
+  
+]
 ]
 
 
