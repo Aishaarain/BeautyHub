@@ -105,7 +105,6 @@ Comprehensive Internal Support: Delivers essential minerals and targeted botanic
   },
   
 ]
-]
 
 
 const features = [
